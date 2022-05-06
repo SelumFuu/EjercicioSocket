@@ -1,0 +1,12 @@
+D:\Documentos\VS\EjercicioSockets\EjercicioSocket\bin\Debug\EjercicioSocket.exe.config
+D:\Documentos\VS\EjercicioSockets\EjercicioSocket\bin\Debug\EjercicioSocket.exe
+D:\Documentos\VS\EjercicioSockets\EjercicioSocket\bin\Debug\EjercicioSocket.pdb
+D:\Documentos\VS\EjercicioSockets\EjercicioSocket\obj\Debug\EjercicioSocket.csproj.CoreCompileInputs.cache
+D:\Documentos\VS\EjercicioSockets\EjercicioSocket\obj\Debug\EjercicioSocket.exe
+D:\Documentos\VS\EjercicioSockets\EjercicioSocket\obj\Debug\EjercicioSocket.pdb
+D:\Documentos\VS\EjercicioSockets\EjercicioSocket\bin\Debug\ClienteSocketUtils.dll
+D:\Documentos\VS\EjercicioSockets\EjercicioSocket\bin\Debug\ServidorSocketUtils.dll
+D:\Documentos\VS\EjercicioSockets\EjercicioSocket\bin\Debug\ClienteSocketUtils.pdb
+D:\Documentos\VS\EjercicioSockets\EjercicioSocket\bin\Debug\ServidorSocketUtils.pdb
+D:\Documentos\VS\EjercicioSockets\EjercicioSocket\obj\Debug\EjercicioSocket.csproj.AssemblyReference.cache
+D:\Documentos\VS\EjercicioSockets\EjercicioSocket\obj\Debug\EjercicioSocket.csproj.CopyComplete

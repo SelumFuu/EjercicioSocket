@@ -1,0 +1,5 @@
+D:\Documentos\VS\EjercicioSockets\ClienteSocketUtils\bin\Debug\ClienteSocketUtils.dll
+D:\Documentos\VS\EjercicioSockets\ClienteSocketUtils\bin\Debug\ClienteSocketUtils.pdb
+D:\Documentos\VS\EjercicioSockets\ClienteSocketUtils\obj\Debug\ClienteSocketUtils.csproj.CoreCompileInputs.cache
+D:\Documentos\VS\EjercicioSockets\ClienteSocketUtils\obj\Debug\ClienteSocketUtils.dll
+D:\Documentos\VS\EjercicioSockets\ClienteSocketUtils\obj\Debug\ClienteSocketUtils.pdb
