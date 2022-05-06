@@ -11,7 +11,7 @@ namespace EjercicioSocket
 {
     class Program
     {
-
+        // Luis Lobos
         private int puerto;
         private Socket servidor;
 
